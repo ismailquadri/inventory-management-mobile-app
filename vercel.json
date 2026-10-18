@@ -1,0 +1,17 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/assets/(.*)",
+      "destination": "/HTML/assets/$1"
+    },
+    {
+      "source": "/components/(.*)",
+      "destination": "/HTML/components/$1"
+    },
+    {
+      "source": "/exports/(.*)",
+      "destination": "/HTML/exports/$1"
+    }
+  ]
+}
