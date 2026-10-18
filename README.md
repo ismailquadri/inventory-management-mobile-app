@@ -17,7 +17,7 @@ A modern, high-fidelity mobile application interface and interactive prototype d
 
 ## 🚀 Live Demo & Deployment
 
-- **Live URL**: [https://inventory-management-mobile-app.vercel.app](https://inventory-management-mobile-app.vercel.app) *(or your Vercel deployment link)*
+- **Live URL**: [https://inventory-management-mobile-app-ten.vercel.app](https://inventory-management-mobile-app-ten.vercel.app)
 - **GitHub Repository**: [https://github.com/ismailquadri/inventory-management-mobile-app](https://github.com/ismailquadri/inventory-management-mobile-app)
 
 ---
